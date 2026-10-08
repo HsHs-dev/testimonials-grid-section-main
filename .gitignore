@@ -37,4 +37,5 @@ npm-debug.log*
 *.log
 *.pem
 .DS_Store
-Thumbs.db
+Thumbs.dbtestimonials-grid-section-figma/
+__MACOSX/
